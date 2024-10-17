@@ -16,3 +16,7 @@ The conceptual design and the entity-relationship diagram are also provided in t
 * Triggers
 * Procedures
 * Update Scripts
+
+
+## Tools
+In this project we used [MariaDB](https://mariadb.org/) and [MySQL](https://www.mysql.com/) as the database management systems.
